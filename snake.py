@@ -1,6 +1,4 @@
-#Carlos Gonzalez
-#cggonzal
-#Section C
+
 
 from tkinter import *
 import random
